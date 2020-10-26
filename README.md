@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### **Rinku Monani** is so passionate about coding, she'd skip coding classes to code! 
+#### ⚡ Fun fact: **Rinku Monani** is so passionate about coding, she'd skip coding classes to code! 
 *whispers*... does that make sense?
 <!--
 **RinkuMonani/RinkuMonani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
