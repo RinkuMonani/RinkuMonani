@@ -9,5 +9,5 @@
 - 📫 reach me at: ... monanira@gmail.com
 
 #### Including a List of my projects in chronological order:
-- (codebreak)[https://github.com/RinkuMonani/codebreak], is a guessing game with 5 levels. Built using HTML5, CSS3, Vanilla JS and two boring evenings!
-- (BUGXS Django)[https://github.com/RinkuMonani/BUGXS-DJANGO-PUBLIC]
+- [codebreak](https://github.com/RinkuMonani/codebreak), is a guessing game with 5 levels. Built using HTML5, CSS3, Vanilla JS and two boring evenings!
+- [BUGXS Django](https://github.com/RinkuMonani/BUGXS-DJANGO-PUBLIC)
